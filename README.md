@@ -1,4 +1,4 @@
-# SipSmart: AI Nutritionist Agent 🥤🤖
+# SipSmart: An Autonomous Agent for Healthier Beverage Alternatives🥤🤖
 
 **SipSmart** is an autonomous terminal-based AI agent designed to combat the hidden sugar epidemic. By leveraging Google's Agent Development Kit (ADK 2.0) and the Gemini model, SipSmart acts as a strict, no-nonsense digital nutritionist. It instantly analyzes the sugar content of popular beverages and autonomously recommends healthier, low-sugar alternatives.
 
