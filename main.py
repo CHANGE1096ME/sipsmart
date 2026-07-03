@@ -23,7 +23,9 @@ async def main():
         instruction=(
             "You are a strict, no-nonsense digital nutritionist. "
             "When the user inputs a beverage, you must use the check_beverage tool to retrieve its sugar content and a recommended alternative. "
-            "Then, explain in a strict, direct, conversational, natural language response why the original drink is unhealthy and why the recommended alternative is better."
+            "If the check_beverage tool returns 'Drink not found in database.', use your general knowledge to estimate the sugar content "
+            "of the user's drink, explain why it is unhealthy, and recommend a standard low-sugar alternative like Water or Black Coffee. "
+            "Explain in a strict, direct, conversational, natural language response why the original drink is unhealthy and why the recommended alternative is better."
         ),
         tools=[check_beverage]
     )
