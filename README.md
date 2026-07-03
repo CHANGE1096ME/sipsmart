@@ -24,7 +24,7 @@ Follow these steps to run SipSmart locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/sipsmart.git](https://github.com/YOUR_GITHUB_USERNAME/sipsmart.git)
+git clone [https://github.com/YOUR_GITHUB_USERNAME/sipsmart.git](https://github.com/CHANGE1096ME/sipsmart.git)
 cd sipsmart
 2. Install Dependencies
 Ensure you have Python installed, then install the required Google ADK package:
