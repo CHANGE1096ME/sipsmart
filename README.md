@@ -44,7 +44,17 @@ Agent Response:
 Monster contains an alarming 54g of sugar, which is far too much for a single serving.
 This excessive sugar intake contributes to a range of health issues. Opt for sparkling water instead;
 it's a much healthier choice with zero sugar, keeping you hydrated without the detrimental effects of sugary beverages.
+📊 Dataset Reference
+This project utilizes the Starbucks Beverage Components Dataset for accurate, real-world nutritional metrics.
+*(Note: Don't forget to replace `yourusername` in the clone link with your actual GitHub username).*
 
+### Push to GitHub
+Now that your security is locked and your documentation is elite, deploy the code. Open your terminal, ensure you are in the `sipsmart` directory, and run these commands one by one:
+
+```bash
+git add .
+git commit -m "feat: upgrade to Pandas data pipeline, Starbucks Kaggle dataset, and secure environment variables"
+git push origin main
 
 
 
